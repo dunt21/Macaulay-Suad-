@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suad Macaulay
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning html and css.
+- 🌱 I have skills in html and css. I'm currently learning JavaScript 
 - 💞️ I’m looking to collaborate on projects like games, aplications and websites.
 - 📫 How to reach me suadmacaulay50@gmail.com
 - 😄 Pronouns: 
